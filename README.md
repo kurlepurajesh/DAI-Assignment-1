@@ -98,10 +98,11 @@ This project analyzes transactional data from a cafe to uncover sales trends, cu
    ```bash
    git clone [https://github.com/kurlepurajesh/DAI-Assignment-1]
 2. Install dependencies
-   '''bash
+   ```bash
    pip install pandas numpy scikit-learn seaborn matplotlib
 3.Launch Jupyter Notebook
-   '''bash
+   ```bash
    jupyter notebook
-4. Open cafe_sales_analysis.ipynb and run all cells
-5. 
+
+
+
