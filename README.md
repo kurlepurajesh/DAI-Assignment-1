@@ -100,9 +100,10 @@ This project analyzes transactional data from a cafe to uncover sales trends, cu
 2. Install dependencies
    ```bash
    pip install pandas numpy scikit-learn seaborn matplotlib
-3.Launch Jupyter Notebook
+3. Launch Jupyter Notebook
    ```bash
-      jupyter notebook
+   jupyter notebook
+4.Open cafe_sales_analysis.ipynb and run all cells.
 
 
 
