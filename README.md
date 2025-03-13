@@ -102,7 +102,9 @@ This project analyzes transactional data from a cafe to uncover sales trends, cu
    pip install pandas numpy scikit-learn seaborn matplotlib
 3.Launch Jupyter Notebook
    ```bash
-   jupyter notebook
+      jupyter notebook
+
+
 
 
 
